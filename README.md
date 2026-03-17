@@ -290,11 +290,5 @@ Detailed guides live in the [`docs/`](docs/) folder:
 | [Blueprint Guide](docs/blueprint-guide.md) | Step-by-step Blueprint setup, value reads/writes, event binding, and runtime timer control |
 | [C++ Extension Guide](docs/cpp-extension-guide.md) | How to add new needs in C++ using `UValueNeedsBase` and `UDrainingNeedsBase` |
 
----
-
-## License
-
-This project is released under the **MIT License** — see [LICENSE](LICENSE) for details.
-
 © 2026 Northfall Games · [𝕏 @NorthfallGame](https://x.com/NorthfallGame)
 
